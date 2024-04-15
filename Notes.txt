@@ -1,0 +1,3 @@
+﻿1. Rate Limitting: Rate limiting is about restricting the number of requests to an API,
+usually within a specific time window or based on other criteria
+
